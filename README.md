@@ -19,10 +19,10 @@ https://user-images.githubusercontent.com/72389122/207963960-beba8d48-8b90-479a-
 <table>
   <tr>
     <td>Welcome Screen on Laptop</td>
-     <td>>Welcome Screen on Mobile</td>
+     <td>Welcome Screen on Mobile</td>
   </tr>
   <tr>
-    <td><img src="screenshot/welcome_screen_laptop.JPG" width=240/></td>
+    <td><img src="screenshot/welcome_screen_laptop.JPG" width=440/></td>
     <td><img src="screenshot/welcome_screen_mobile.JPG" width=240/></td>
   </tr>
   <tr>
@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/72389122/207963960-beba8d48-8b90-479a-
      <td>Signup Screen on Mobile</td>
   </tr>
   <tr>
-    <td><img src="screenshot/signup_screen_laptop.JPG" width=240></td>
+    <td><img src="screenshot/signup_screen_laptop.JPG" width=440></td>
     <td><img src="screenshot/signup_screen_mobile.JPG" width=240></td>
   </tr>
   <tr>
@@ -38,7 +38,7 @@ https://user-images.githubusercontent.com/72389122/207963960-beba8d48-8b90-479a-
     <td>Signup Successfully Screen on Mobile</td>
   </tr>
   <tr>
-  <td><img src="screenshot/dignup_success_laptop.JPG" width=240></td>
+  <td><img src="screenshot/dignup_success_laptop.JPG" width=440></td>
     <td><img src="screenshot/signup_success_mobile.JPG" width=240></td>
   </tr>
  </table>
