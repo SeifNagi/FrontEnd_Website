@@ -5,8 +5,7 @@ It is a simple website that allow the users to signup in jewellery website.
 * [General info](#general-info)
 * [Demo](#demo)
 * [Technologies](#technologies)
-* [How to use](#how-to-use)
-* [Project Structure](#project-structure)
+
 
 ## General info
 This is a website that allow some info for users about the jellwery store. By letting the users to signup throught writing username,email,password and confirmation password.  
@@ -23,24 +22,24 @@ https://user-images.githubusercontent.com/72389122/207963960-beba8d48-8b90-479a-
      <td>>Welcome Screen on Mobile</td>
   </tr>
   <tr>
-    <td><img src="screenshot/welcome_screen_laptop.jpg" width=240/></td>
-    <td><img src="screenshot/welcome_screen_mobile.jpg" width=240/></td>
+    <td><img src="screenshot/welcome_screen_laptop.JPG" width=240/></td>
+    <td><img src="screenshot/welcome_screen_mobile.JPG" width=240/></td>
   </tr>
   <tr>
     <td>Signup Screen on Laptop</td>
      <td>Signup Screen on Mobile</td>
   </tr>
   <tr>
-    <td><img src="screenshot/signup_screen_laptop.jpg" width=240></td>
-    <td><img src="screenshot/signup_screen_mobile.jpg" width=240></td>
+    <td><img src="screenshot/signup_screen_laptop.JPG" width=240></td>
+    <td><img src="screenshot/signup_screen_mobile.JPG" width=240></td>
   </tr>
   <tr>
     <td>Signup Successfully Screen on Laptop </td>
     <td>Signup Successfully Screen on Mobile</td>
   </tr>
   <tr>
-  <td><img src="screenshot/dignup_success_laptop.jpg" width=240></td>
-    <td><img src="screenshot/signup_success_mobile.jpg" width=240></td>
+  <td><img src="screenshot/dignup_success_laptop.JPG" width=240></td>
+    <td><img src="screenshot/signup_success_mobile.JPG" width=240></td>
   </tr>
  </table>
 
